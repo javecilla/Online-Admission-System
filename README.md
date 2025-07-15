@@ -14,9 +14,3 @@ The updated system now includes features such as sending appointment schedules d
 - **Efficient Management:** Tools and functionalities for administrators to efficiently manage and track enrollments.
 
 For access to the Golden Minds Colleges Online Admission, [please visit here.](https://iregister.goldenminds.edu.ph/)
-
-
-## License
-
-[MIT](https://github.com/javecilla/Online-Admission-System/blob/main/LICENSE)
-
